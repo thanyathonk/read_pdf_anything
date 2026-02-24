@@ -1,0 +1,3 @@
+# Ignore all .md files (keep README only)
+*.md
+!README.md
