@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cryptr": "^6.4.0",
+    "jose": "^6.1.3"
+  }
+}
